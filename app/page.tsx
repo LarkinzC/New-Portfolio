@@ -1,5 +1,5 @@
 
-import Hero from './components/Hero'
+import Hero from './components/hero'
 import { FloatingNav } from "./components/ui/FloatingNav";
 import Grid from "./components/Grid";
 import RecentsProjects from "./components/RecentsProjects";
